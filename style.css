@@ -6,3 +6,9 @@
 .svg-container svg:hover {
     fill: red;
 }
+video {
+    display: block;
+    margin: auto;
+    width: 400px;
+    max-width: 100%;
+}

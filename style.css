@@ -1,0 +1,8 @@
+.theater-icon, .svg-container svg {
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+.svg-container svg:hover {
+    fill: red;
+}
